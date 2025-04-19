@@ -10,7 +10,8 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       VK: "https://vk.com/sabkvq",
       "Telegram": "tg://resolve?domain=sabkvq",
-      TenChat: "https://tenchat.ru/sabkvq"
+      TenChat: "https://tenchat.ru/sabkvq",
+      "Назначить встречу": "https://cal.com/sabkvq/meeting"
     },
   }),
 }
