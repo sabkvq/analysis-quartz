@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Академия ПМЭФ. Mind-Map",
+    pageTitle: "Анализ финансовых показателей компании",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
